@@ -8,7 +8,7 @@
         echo "Desculpe, você ainda não tem a idade certa para dirigir...";
     }
  
-    if($hab =="sim"){
+    if($hab ==TRUE){
         echo " Parabéns, você foi aprovado!!!";
     }
     else {
