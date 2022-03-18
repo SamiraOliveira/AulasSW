@@ -1,0 +1,6 @@
+------primeiro codigo (if e else)-------------------
+ se nota > 6 entao
+  escreval("REPROVADO")
+ senao
+  escreval("APROVADO")
+ fimse
