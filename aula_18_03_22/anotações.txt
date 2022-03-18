@@ -2,5 +2,27 @@
  se nota > 6 entao
   escreval("REPROVADO")
  senao
-  escreval("APROVADO")
+   se nota <= 6 entao
+    escreval("APROVADO")
  fimse
+
+--------------------------------------------------
+Para o arquivo php abrir, primeiramente tem que salvar a pasta (aula_blablabla) numa pasta chamada "htdocs" dentro da pasta do app xampp.
+Após isso colocar o link "localhost/endereço_da_pasta/endereço_do_arquivo.php" na barra de pesquisa.
+----------------SEGUNDO CODIGO---------------------
+ se nota > 6 entao
+  escreval("REPROVADO")
+ senao
+   se nota < 5 entao
+    escreval("APROVADO")
+   senao
+    escreval("RECUPERAÇÃO")
+   fimse
+ fimse
+-----------------------------------------------------
+qnd a resposta dá 1 é VERDADEIRO.
+qnd a resposta dá   é FALSO.
+--------------------------------------------
+os operadores lógicos são: AND(&&), OR, XOR, NOT(!).
+ 
+
