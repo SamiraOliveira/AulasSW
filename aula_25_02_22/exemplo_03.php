@@ -10,8 +10,8 @@
     <?php
         $nome = "Samira";
     ?>
-    <h1>oii</h1>
-    <p>aaaa</p>
+    <h1>Hello</h1>
+    <p>Anderson como presidente</p>
     <h2>
         <?php
             echo 'Olá'. $nome;
