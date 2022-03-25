@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,12 +9,12 @@
 </head>
 <body>
     <h1>
-        Só um teste aleatório
+        Só um teste 
     </h1>
     <?php 
-    $nome = "Raíssa";
+    $nome = "Samira";
     echo $nome."<br>";
-    $sobrenome = "Bespalec";
+    $sobrenome = "Oliveira";
     echo "<p1>".$sobrenome."</p1>";
     ?>
 </body>
