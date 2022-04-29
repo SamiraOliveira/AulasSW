@@ -1,0 +1,53 @@
+29/04/22 ->php 
+<<<<COMANDOS DE REPETIÇÃO>>>>
+---------------------------
+-> while (enquanto)
+exemplo:
+
+<?php 
+     $cont = 0
+     while ($cont <100){
+         echo "O valor atual do contador é $cont <br>";
+         $cont++;
+     }
+?>
+
+("$cont++" é a mesma coisa de $cont = (recebe) $cont + 1)
+---------------------------
+-> do.. while (faça.. enquanto)
+exemplo:
+
+<?php
+    $numero = 1;
+    do{
+        echo"O valor atual do contador é $numero <br>";
+        $numero++;
+    }
+    while($numero<15);
+?>
+---------------------------
+-> for (para)
+exemplo:
+
+para i de 1 ate 15 passo 2 faca
+  escreval(i)
+fimpara
+
+(o "passo 2" no código, pode ser substituida por "$cont = $cont + 2").
+
+<?php 
+    echo "Contagem Progressiva <br> <br>";
+    for($cont= 0; $cont<10;$cont++){
+      echo"A variavel \$cont vale $cont <br>";
+    }
+    echo "<br> Contagem Regressiva <br> <br>";
+    for($cont=13;$cont>0;$cont--){
+      echo"A variavel \$cont vale $cont <br>";
+    }
+?>
+
+(o "passo 2" na expressão, pode ser substituida por "$cont = $cont + 2")
+---------------------------
+-> for each (para cada)
+
+
