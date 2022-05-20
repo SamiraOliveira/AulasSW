@@ -1,0 +1,7 @@
+QUANDO UTILIZAR OS LAÇOS DE REPETIÇÃO>>>>>>>>>
+-quando voce sabe quantas vezes irá repetir;
+->do while_ ele executa primeiro para depois olhar a condição;
+->o while primeiro olha a condição e depois executa.
+
+VETOR>>>>
+pode armazenar varios valores dentro de uma única variável.
