@@ -1,0 +1,15 @@
+colocar a pasta no htdocs->xamp->WindowsC:
+
+escrever "localhost" no google e entrar na aba MySql
+----------------------------------------------------
+AVISO: Mostra o erro no código, mas continua o programa
+ERRO FATAL: Para todo o programa
+----------------------------------------------------
+INCLUDE: Puxa um arquivo e põe dentro de outro arquivo, inclui so uma vez, mas esse te dá um aviso e continua o programa.
+REQUIE: Puxa um arquivo e põe dentro de outro arquivo, inclui so uma vez, mas faz uma excessão, dá erro fatal e para o programa.
+----------------------------------------------------
+FECHAR CONEXÃO:
+msqli_close($variavel)
+----------------------------------------------------
+
+GITHUB: www.github.com/ProfAndersonVanin
